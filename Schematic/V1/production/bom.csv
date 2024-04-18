@@ -1,0 +1,5 @@
+﻿Designator,Footprint,Quantity,Value,LCSC Part #
+Fuse,Fuseholder_Cylinder-5x20mm_Schurter_0031_8201_Horizontal_Open,1,Fuse,
+"GPIO2, GPIO4, GPIO5",SolderWire-0.1sqmm_1x03_P3.6mm_D0.4mm_OD1mm_Relief,3,Conn_01x03_Socket,
+Input,SolderWire-1sqmm_1x02_P7.8mm_D1.4mm_OD3.9mm,1,Conn_01x02_Socket,
+WEMOS R1D1 MINI ESP8266,WEMOS_D1_mini_light,1,WeMos_D1_mini,
