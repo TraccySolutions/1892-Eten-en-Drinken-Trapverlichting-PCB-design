@@ -1,0 +1,10 @@
+﻿Designator,Footprint,Quantity,Value,LCSC Part #
+"F1, F2, F3, F4, F5",1812L010DR,5,Polyfuse_Small,
+J1,SolderWire-0.25sqmm_1x03_P4.2mm_D0.65mm_OD1.7mm_Relief,1,OUT1,
+J2,SolderWire-0.25sqmm_1x03_P4.2mm_D0.65mm_OD1.7mm_Relief,1,OUT2,
+J3,SolderWire-0.25sqmm_1x03_P4.2mm_D0.65mm_OD1.7mm_Relief,1,OUT3,
+J4,SolderWire-0.25sqmm_1x03_P4.2mm_D0.65mm_OD1.7mm_Relief,1,OUT4,
+J5,SolderWire-0.25sqmm_1x03_P4.2mm_D0.65mm_OD1.7mm_Relief,1,OUT5,
+J6,SolderWire-0.25sqmm_1x02_P4.2mm_D0.65mm_OD1.7mm_Relief,1,5V ESP,
+J7,SolderWire-0.25sqmm_1x02_P4.2mm_D0.65mm_OD1.7mm_Relief,1,5V LEDS,
+U1,WEMOS-ESP32-S2,1,~,
