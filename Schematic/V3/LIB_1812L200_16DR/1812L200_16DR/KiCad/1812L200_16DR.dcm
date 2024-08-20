@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 1812L200_16DR
+D PTC RESET FUSE 16V 2A 1812
+K
+F http://www.littelfuse.com/~/media/electronics/datasheets/resettable_ptcs/littelfuse_ptc_1812l_datasheet.pdf.pdf
+$ENDCMP
+#
+#End Doc Library

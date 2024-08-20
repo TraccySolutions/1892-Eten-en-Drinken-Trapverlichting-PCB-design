@@ -1,0 +1,9 @@
+Manufacturer=LITTELFUSE
+PartNumber=1812L200/16DR
+PartCategory=Resettable Fuse
+PackageCategory=Other
+PinCount=2
+Version=2.1
+Released=2016-09-12 13:36:29
+Downloaded=2024-07-02 11:48:47
+3D=Y

@@ -37,9 +37,9 @@
         "other_text_thickness": 0.15,
         "other_text_upright": false,
         "pads": {
-          "drill": 1.2,
-          "height": 2.2,
-          "width": 2.2
+          "drill": 0.762,
+          "height": 1.524,
+          "width": 1.524
         },
         "silk_line_width": 0.09999999999999999,
         "silk_text_italic": false,
@@ -48,18 +48,16 @@
         "silk_text_thickness": 0.09999999999999999,
         "silk_text_upright": false,
         "zones": {
-          "45_degree_only": false,
           "min_clearance": 0.5
         }
       },
-      "diff_pair_dimensions": [
-        {
-          "gap": 0.0,
-          "via_gap": 0.0,
-          "width": 0.0
-        }
+      "diff_pair_dimensions": [],
+      "drc_exclusions": [
+        "copper_edge_clearance|111000000|14000000|76d8e24f-d048-4fd2-bdbc-90b4f25d3a75|342aef00-6d68-464f-820b-6fc78c7a411e",
+        "copper_edge_clearance|114000000|75000000|76d8e24f-d048-4fd2-bdbc-90b4f25d3a75|2bf58a41-6de0-42e3-a6e4-8d194e9adc44",
+        "copper_edge_clearance|14000000|17000000|76d8e24f-d048-4fd2-bdbc-90b4f25d3a75|5d55bcdc-37ab-4845-8206-5b6c3fa2262a",
+        "copper_edge_clearance|14000000|75000000|76d8e24f-d048-4fd2-bdbc-90b4f25d3a75|e22da0e8-e806-4c23-ab39-c2117eac507f"
       ],
-      "drc_exclusions": [],
       "meta": {
         "version": 2
       },
@@ -112,12 +110,9 @@
         "unconnected_items": "error",
         "unresolved_variable": "error",
         "via_dangling": "warning",
-        "zone_has_empty_net": "error",
         "zones_intersect": "error"
       },
       "rules": {
-        "allow_blind_buried_vias": false,
-        "allow_microvias": false,
         "max_error": 0.005,
         "min_clearance": 0.0,
         "min_connection": 0.0,
@@ -131,7 +126,7 @@
         "min_text_height": 0.7999999999999999,
         "min_text_thickness": 0.08,
         "min_through_hole_diameter": 0.3,
-        "min_track_width": 0.19999999999999998,
+        "min_track_width": 0.0,
         "min_via_annular_width": 0.09999999999999999,
         "min_via_diameter": 0.5,
         "solder_mask_to_copper_clearance": 0.005,
@@ -180,11 +175,7 @@
           "td_width_to_size_filter_ratio": 0.9
         }
       ],
-      "track_widths": [
-        0.0,
-        0.7,
-        3.15
-      ],
+      "track_widths": [],
       "tuning_pattern_settings": {
         "diff_pair_defaults": {
           "corner_radius_percentage": 80,
@@ -211,14 +202,8 @@
           "spacing": 0.6
         }
       },
-      "via_dimensions": [
-        {
-          "diameter": 0.0,
-          "drill": 0.0
-        }
-      ],
-      "zones_allow_external_fillets": false,
-      "zones_use_no_outline": true
+      "via_dimensions": [],
+      "zones_allow_external_fillets": false
     },
     "ipc2581": {
       "dist": "",
@@ -450,7 +435,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "V2.kicad_pro",
+    "filename": "V3.kicad_pro",
     "version": 1
   },
   "net_settings": {
@@ -467,8 +452,8 @@
         "name": "Default",
         "pcb_color": "rgba(0, 0, 0, 0.000)",
         "schematic_color": "rgba(0, 0, 0, 0.000)",
-        "track_width": 0.3,
-        "via_diameter": 0.7,
+        "track_width": 0.2,
+        "via_diameter": 0.6,
         "via_drill": 0.3,
         "wire_width": 6
       }
@@ -496,7 +481,6 @@
   },
   "schematic": {
     "annotate_start_num": 0,
-    "bom_export_filename": "",
     "bom_fmt_presets": [],
     "bom_fmt_settings": {
       "field_delimiter": ",",
@@ -595,7 +579,7 @@
   },
   "sheets": [
     [
-      "7c1fabcd-e970-4249-87b0-60c290ed6e5c",
+      "feb69159-bdf8-43eb-9f07-80d6683b9e42",
       "Root"
     ]
   ],

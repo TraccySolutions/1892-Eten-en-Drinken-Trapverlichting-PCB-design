@@ -1,0 +1,18 @@
+.1812L200_16DR :1 ;PTC RESET FUSE 16V 2A 1812
+"1812L010DR"
+*STM F
+*NGS
+*PLB 1="1" 2="2"
+*MXP 2
+*DFN 1812L200_16DR
+~!Manufacturer_Name (LITTELFUSE)
+~!Manufacturer_Part_Number (1812L200/16DR)
+~!Mouser Part Number (576-1812L200/16DR)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Littelfuse/1812L200-16DR?qs=TVaBpCI%2FeOjmahHJHOOPUw%3D%3D)
+~!Arrow Part Number (1812L200/16DR)
+~!Link Arrow Price/Stock (https://www.arrow.com/en/products/1812l20016dr/littelfuse?region=europe)
+~!Link Datasheet (http://www.littelfuse.com/~/media/electronics/datasheets/resettable_ptcs/littelfuse_ptc_1812l_datasheet.pdf.pdf)
+~!Height (1.25mm)
+~!3D_Model (1812L200_16DR)
+"1812L200_16DR"
+1.1!U 2.1!U 
