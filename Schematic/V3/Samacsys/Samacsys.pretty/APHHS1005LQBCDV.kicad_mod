@@ -1,0 +1,182 @@
+(footprint "APHHS1005LQBCDV"
+	(version 20240108)
+	(generator "pcbnew")
+	(generator_version "8.0")
+	(layer "F.Cu")
+	(descr "APHHS1005LQBC/D-V-2")
+	(tags "LED")
+	(property "Reference" "LED**"
+		(at 0 -2.05 0)
+		(layer "F.SilkS")
+		(uuid "9b617fa7-8ad2-4ec5-8e74-c9bd0c545e5e")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+			)
+		)
+	)
+	(property "Value" "APHHS1005LQBCDV"
+		(at 0 2.05 0)
+		(layer "F.SilkS")
+		(hide yes)
+		(uuid "60ab8d9e-3676-4341-95d5-f2c5e9b759c1")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+			)
+		)
+	)
+	(property "Footprint" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "d6117d21-2a94-48c2-b3e0-87ffc680cec5")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "fc31f5b0-d25c-490d-b286-ea0df7b2bcf2")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "689e14b8-bcf2-40c5-b611-5d0984f69359")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr smd)
+	(fp_line
+		(start -0.9 -0.35)
+		(end 0.9 -0.35)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "8ae57f4f-afb7-47fd-99c2-db35913dcfa5")
+	)
+	(fp_line
+		(start -0.9 0.4)
+		(end -0.9 -0.35)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "59176cb1-36ed-4780-8419-82299200c361")
+	)
+	(fp_line
+		(start 0.9 -0.35)
+		(end 0.9 0.4)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "fa4ddadf-77c6-4678-b9d4-52e8f607d9f4")
+	)
+	(fp_line
+		(start 0.9 0.4)
+		(end -0.9 0.4)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "3b1d8e41-e257-4bcf-850c-632f117d366c")
+	)
+	(fp_line
+		(start -0.5 -0.25)
+		(end 0.5 -0.25)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "5eb57350-a581-4db2-a0f1-702dacb4563a")
+	)
+	(fp_line
+		(start -0.5 0.25)
+		(end -0.5 -0.25)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "eead6884-b2d1-4c7f-be49-9b1f397390ed")
+	)
+	(fp_line
+		(start 0.5 -0.25)
+		(end 0.5 0.25)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "2c4c1fe6-bdd0-44e1-a7a3-a5ec94ad3a14")
+	)
+	(fp_line
+		(start 0.5 0.25)
+		(end -0.5 0.25)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "b2d77741-0226-478c-b844-a7f7d462434d")
+	)
+	(fp_text user "${REFERENCE}"
+		(at 0 0 0)
+		(layer "F.Fab")
+		(uuid "d9da0949-da92-423a-a76f-cd399eaa119f")
+		(effects
+			(font
+				(size 0.26 0.26)
+				(thickness 0.04)
+			)
+		)
+	)
+	(pad "1" smd rect
+		(at -0.45 0 90)
+		(size 0.5 0.7)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(uuid "c7bc26cc-c49d-4329-96ae-35e1f399b0b0")
+	)
+	(pad "2" smd rect
+		(at 0.45 0 90)
+		(size 0.5 0.7)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(uuid "1303e0db-ad51-49ac-b13e-46a39cc6f5a2")
+	)
+	(model "${KICAD_3RD_PARTY}/Samacsys.3dshapes/APHHS1005LQBC_D-V.stp"
+		(offset
+			(xyz 0 0 0.2499999962)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 90 -180 0)
+		)
+	)
+)

@@ -1,0 +1,192 @@
+(footprint "GRM32DR61C106KA01L"
+	(version 20240108)
+	(generator "pcbnew")
+	(generator_version "8.0")
+	(layer "F.Cu")
+	(descr "GRM32 L=3.2mm W=2.5mm T=2.0mm")
+	(tags "Capacitor")
+	(property "Reference" "C**"
+		(at 0 -2.286 0)
+		(layer "F.SilkS")
+		(uuid "dd16866b-28e9-4286-bcce-7eae6ec61168")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+			)
+		)
+	)
+	(property "Value" "GRM32DR61C106KA01L"
+		(at 0 2.794 0)
+		(layer "F.SilkS")
+		(hide yes)
+		(uuid "5ce3cbe7-976e-4c9f-8aec-9c998755aad1")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+			)
+		)
+	)
+	(property "Footprint" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "19c96ac2-0950-4129-965b-ec573e46809e")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "787c013b-16d5-4349-883c-98b06a7794c1")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "53d0a2a3-dc13-4ed7-88a3-d3676f06b794")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr smd)
+	(fp_line
+		(start 0 -1.15)
+		(end 0 1.15)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "a9c1c23e-78c7-4f0e-8456-a50c11dcc9dc")
+	)
+	(fp_line
+		(start -2.413 -1.27)
+		(end 2.54 -1.27)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "7fac2dd8-42cd-4e73-8736-1422d988b4c8")
+	)
+	(fp_line
+		(start -2.413 1.27)
+		(end -2.413 -1.27)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "9664b7f9-2201-405c-8f34-6128b2565174")
+	)
+	(fp_line
+		(start 2.54 -1.27)
+		(end 2.54 1.27)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "d798710e-d3d7-4cc3-b63e-c99dd7babf19")
+	)
+	(fp_line
+		(start 2.54 1.27)
+		(end -2.413 1.27)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "4fa983d4-e574-4c1c-b94a-a1b1d2cfbac4")
+	)
+	(fp_line
+		(start -1.6 -1.25)
+		(end 1.6 -1.25)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "77242822-f26f-473f-88e6-47ee492d17f9")
+	)
+	(fp_line
+		(start -1.6 1.25)
+		(end -1.6 -1.25)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "27217487-92bd-498d-a978-69a38ea5692a")
+	)
+	(fp_line
+		(start 1.6 -1.25)
+		(end 1.6 1.25)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "aff32d6c-1e93-430b-8ce7-bf6efe3de480")
+	)
+	(fp_line
+		(start 1.6 1.25)
+		(end -1.6 1.25)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "6ba8cfb8-e1e0-473d-9068-38daec618e29")
+	)
+	(fp_text user "${REFERENCE}"
+		(at 0 0 0)
+		(layer "F.Fab")
+		(uuid "3fd70e8c-cfce-4e86-9471-82ce0a0dde2f")
+		(effects
+			(font
+				(size 0.26 0.26)
+				(thickness 0.04)
+			)
+		)
+	)
+	(pad "1" smd rect
+		(at -1.65 0)
+		(size 1.1 2.05)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(uuid "4fad1267-7467-4bb3-96d6-b75fc1f288e0")
+	)
+	(pad "2" smd rect
+		(at 1.65 0)
+		(size 1.1 2.05)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(uuid "ccb1443e-9e62-412b-a079-7c64e1cbd9d3")
+	)
+	(model "${KICAD_3RD_PARTY}/Samacsys.3dshapes/GRM32DC72A475KE01L.stp"
+		(offset
+			(xyz 0 -1.100000007 1.249999981)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 0)
+		)
+	)
+)

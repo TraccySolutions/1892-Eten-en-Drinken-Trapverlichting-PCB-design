@@ -1,0 +1,788 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 1812L200_16DR
+D PTC RESET FUSE 16V 2A 1812
+K
+F http://www.littelfuse.com/~/media/electronics/datasheets/resettable_ptcs/littelfuse_ptc_1812l_datasheet.pdf.pdf
+$ENDCMP
+#
+$CMP SIZ250DT-T1-GE3
+D MOSFET, DUAL N-CH, 60V, 38A, 150DEG C ROHS COMPLIANT: YES
+K
+F http://www.vishay.com/docs/77227/siz250dt.pdf
+$ENDCMP
+#
+$CMP MCF8329A1IREER
+D Motor / Motion / Ignition Controllers & Drivers 60-V, sensorless, field-oriented control (FOC) three-phase BLDC gate driver 36-WQFN -40 to 125
+K
+F https://www.ti.com/lit/gpn/mcf8329a
+$ENDCMP
+#
+$CMP 70RXA1000MEFC16X30
+D Aluminum Electrolytic Capacitors - Radial Leaded 70VDC 1000uF 20% AEC-Q200
+K
+F 
+$ENDCMP
+#
+$CMP EEE-TP1J102M
+D PANASONIC - EEE-TP1J102M - CAP, 1000UF, 63V, ALU ELEC, SMD
+K
+F http://industrial.panasonic.com/cdbs/www-data/pdf/RDE0000/RDE0000C1255.pdf
+$ENDCMP
+#
+$CMP LMR36006BRNXT
+D 4.2-V to 60-V, 0.6-A ultra-small synchronous step-down converter
+K
+F http://www.ti.com/lit/gpn/LMR36006
+$ENDCMP
+#
+$CMP GRM155R62A104KE14J
+D Multilayer Ceramic Capacitors MLCC - SMD/SMT 0402 0.1uF 100volts *Derate Voltage/Temp
+K
+F https://search.murata.co.jp/Ceramy/image/img/A01X/G101/ENG/GRM155R62A104KE14-01A.pdf
+$ENDCMP
+#
+$CMP C3225X7R2A106K250AC
+D Multilayer Ceramic Chip Capacitors, Capacitance=10?F, LxWxT:3.2x2.5x2.5mm
+K
+F https://product.tdk.com/info/en/catalog/datasheets/mlcc_commercial_midvoltage_en.pdf
+$ENDCMP
+#
+$CMP BAT46LS-QYL
+D BAT46LS-Q - General-purpose Schottky diode@en-us
+K
+F https://assets.nexperia.com/documents/data-sheet/BAT46LS-Q.pdf
+$ENDCMP
+#
+$CMP GRM32DC72A475KE01L
+D Multilayer Ceramic Capacitors MLCC - SMD/SMT 4.7UF   100V   10%        1210
+K
+F http://www.murata.com/~/media/webrenewal/support/library/catalog/products/capacitor/mlcc/c02e.pdf
+$ENDCMP
+#
+$CMP CBR04C399B1GAC
+D CBR-SMD RF C0G, Ceramic, 3.9 pF, +/-0.1 pF, 100 VDC, 250 VDC, 125C, -55C, C0G, SMD, Fixed, RF, Ultra High Q, Low ESR, Class I, 0.21 % , 10 GOhms, 478, 1.4 mg, 0402, 1mm, 0.5mm, 0.5mm, 0.25mm, 10000, 78  Weeks, 120
+K
+F http://www.kemet.com/Lists/ProductCatalog/Attachments/490/KEM_C1030_CBR_SMD.pdf
+$ENDCMP
+#
+$CMP C0402C399D8HACAUTO
+D https://connect.kemet.com:7667/gateway/IntelliData-ComponentDocumentation/1.0/download/specsheet/C0402C271K5RACAUTO
+K
+F https://connect.kemet.com:7667/gateway/IntelliData-ComponentDocumentation/1.0/download/specsheet/C0402C271K5RACAUTO
+$ENDCMP
+#
+$CMP GRM1555C1E3R9BA01D
+D Chip Capacitor value 3R9
+K
+F http://www.murata.com/~/media/webrenewal/support/library/catalog/products/capacitor/mlcc/c02e.pdf
+$ENDCMP
+#
+$CMP GRM21BR61A476ME15K
+D Multilayer Ceramic Capacitors MLCC - SMD/SMT 0805 47uF 10volts *Derate Voltage/Temp
+K
+F http://www.murata.com/~/media/webrenewal/support/library/catalog/products/capacitor/mlcc/c02e.pdf
+$ENDCMP
+#
+$CMP ERA-2AED104X
+D Panasonic ERA Series Thin Film Surface Mount Resistor 0402 Case 100k +/-0.5% 63mW +/-25ppm/C
+K
+F http://industrial.panasonic.com/cdbs/www-data/pdf/RDM0000/AOA0000C307.pdf
+$ENDCMP
+#
+$CMP ERA-2AED4322X
+D Metal Thin Film Chip Resistor, 0402, 0.063W
+K
+F http://industrial.panasonic.com/cdbs/www-data/pdf/RDM0000/AOA0000C307.pdf
+$ENDCMP
+#
+$CMP 74438356150
+D WURTH ELEKTRONIK - 74438356150 - Power Inductor (SMD), 15 H, 1.9 A, Shielded, 2.1 A, WE-MAPI Series, 4.1mm x 4.1mm x 2.1mm
+K
+F https://www.we-online.com/catalog/datasheet/74438356150.pdf
+$ENDCMP
+#
+$CMP ERJ-U02F1002X
+D PANASONIC ELECTRONIC COMPONENTS - ERJ-U02F1002X - RES, THICK FILM, 10K, 1%, 0.1W, 0402, REEL
+K
+F https://industrial.panasonic.com/cdbs/www-data/pdf/RDP0000/AOA0000C334.pdf
+$ENDCMP
+#
+$CMP GRM155R61E105MA12D
+D Multilayer Ceramic Capacitors MLCC - SMD/SMT 0402 1.0uF 25volts *Derate Voltage/Temp
+K
+F http://www.murata.com/~/media/webrenewal/support/library/catalog/products/capacitor/mlcc/c02e.pdf
+$ENDCMP
+#
+$CMP GRM21BR6YA106ME43L
+D Multilayer Ceramic Capacitors MLCC - SMD/SMT 0805 10uF 35volts *Derate Voltage/Temp
+K
+F http://www.murata.com/~/media/webrenewal/support/library/catalog/products/capacitor/mlcc/c02e.pdf
+$ENDCMP
+#
+$CMP GRM21BR72A474KA73K
+D MLCC, 0805
+K
+F https://search.murata.co.jp/Ceramy/image/img/A01X/G101/ENG/GRM21BR72A474KA73-01A.pdf
+$ENDCMP
+#
+$CMP ERJ-2RKF5101X
+D Precision Thick Film Chip Resistor, 0402, 0.063W
+K
+F https://industrial.panasonic.com/cdbs/www-data/pdf/RDA0000/AOA0000C86.pdf
+$ENDCMP
+#
+$CMP LP3981ILD-3.3_NOPB
+D LDO Voltage Regulators MicroPwr 300mA Ultra LDO CMOS Vtg Reg
+K
+F https://www.ti.com/general/docs/suppproductinfo.tsp?distId=26&gotoUrl=https://www.ti.com/lit/gpn/lp3981
+$ENDCMP
+#
+$CMP GRT155R60J225KE01D
+D AEC-Q200 Compliant Chip Multilayer Ceramic Capacitors for Automotive (Infortainment/Confort) & Industrial Equipment, 0402
+K
+F https://search.murata.co.jp/Ceramy/image/img/A01X/G101/ENG/GRT155R60J225KE01-01.pdf
+$ENDCMP
+#
+$CMP C0805C333F3GEC7210
+D ESD SMD Comm C0G, Ceramic, 0.033 uF, 1%, 25 VDC, 62.5 VDC, 125C, -55C, C0G, SMD, MLCC, Temperature Stable, Electro Static Discharge, Class I, 0.1 % , 30.303 GOhms, 14 mg, 0805, 2mm, 1.25mm, 1.25mm, 0.75mm, 0.5mm, 10000, 78  Weeks, 120
+K
+F https://content.kemet.com/datasheets/KEM_C1091_C0G_ESD.pdf
+$ENDCMP
+#
+$CMP GRM155R60J106ME05D
+D Capacitor GRM15_0.20 L=1.0mm W=0.5mm T=0.5mm
+K
+F http://www.murata.com/~/media/webrenewal/support/library/catalog/products/capacitor/mlcc/c02e.pdf
+$ENDCMP
+#
+$CMP GRM158R60J226ME01D
+D Multilayer Ceramic Capacitors MLCC - SMD/SMT 0402(1005M)/X5R/22uF/ +/-20%/6.3V Special 0.8 +0/-0.1mm Thickness
+K
+F https://search.murata.co.jp/Ceramy/image/img/A01X/G101/ENG/GRM158R60J226ME01-01A.pdf
+$ENDCMP
+#
+$CMP ERA-2APB3322X
+D Metal Thin Film Chip Resistor, 0402, 0.063W
+K
+F http://industrial.panasonic.com/cdbs/www-data/pdf/RDM0000/AOA0000C307.pdf
+$ENDCMP
+#
+$CMP 24.243.1
+D Banana Test Connector, 4mm, Socket, PCB Mount, 24 A, 60 VDC, Silver Plated Contacts, Red
+K
+F 
+$ENDCMP
+#
+$CMP TPS2116DRLR
+D d
+K
+F https://www.ti.com/lit/gpn/tps2116
+$ENDCMP
+#
+$CMP GRM21BR60J107ME15K
+D Capacitor GRM21_0.20 L=2.0mm W=1.25mm T=1.25mm
+K
+F http://www.murata.com/~/media/webrenewal/support/library/catalog/products/capacitor/mlcc/c02e.pdf
+$ENDCMP
+#
+$CMP RCS04020000Z0ED
+D VISHAY - RCS04020000Z0ED - RES, AEC-Q200, THICK FILM, 0R, 0.2W, 0402
+K
+F 
+$ENDCMP
+#
+$CMP 43045-2000
+D Micro-Fit 3.0 Right-Angle Header, 3.00mm Pitch, Dual Row, 20 Circuits, with Snap-in Plastic Peg PCB Lock
+K
+F https://www.molex.com/pdm_docs/sd/430450200_sd.pdf
+$ENDCMP
+#
+$CMP 203566-2007
+D Headers & Wire Housings PicoClasp Hdr SMT DR RA 20CKT W/PL Au0.38
+K
+F https://www.molex.com/pdm_docs/sd/2035662007_sd.pdf
+$ENDCMP
+#
+$CMP TSS-105-04-L-D-RA
+D Samtec TSS, 2.54mm Pitch, 10 Way, 2 Row PCB Terminal Block Header, Through Hole
+K
+F http://suddendocs.samtec.com/prints/tss-1xx-xx-xxx-x-xx-xx-mkt.pdf
+$ENDCMP
+#
+$CMP TFML-105-01-S-D-RA
+D Headers & Wire Housings .050" Tiger Eye  High-Reliability Locking Terminal Strip
+K
+F 
+$ENDCMP
+#
+$CMP 46991-4004
+D Mini-Fit Jr. Reflow Solder Capable Header, Right-Angle, Dual Row, 4 Circuits, without Mounting Peg
+K
+F https://www.molex.com/pdm_docs/sd/469911006_sd.pdf
+$ENDCMP
+#
+$CMP 46991-1008
+D Mini-Fit Jr. Reflow Solder Capable Header, Right-Angle, Dual Row, 8 Circuits, without Mounting Peg
+K
+F https://www.molex.com/pdm_docs/sd/469911006_sd.pdf
+$ENDCMP
+#
+$CMP 46991-1006
+D Mini-Fit Jr. Reflow Solder Capable Header, Right-Angle, Dual Row, 6 Circuits, without Mounting Peg
+K
+F https://www.molex.com/pdm_docs/sd/469911006_sd.pdf
+$ENDCMP
+#
+$CMP ERA-2AED2372X
+D Metal Thin Film Chip Resistor, 0402, 0.063W
+K
+F http://industrial.panasonic.com/cdbs/www-data/pdf/RDM0000/AOA0000C307.pdf
+$ENDCMP
+#
+$CMP MCP2561T-E_MF
+D 1/1 Transceiver Half CANbus 8-DFN (3x3)
+K
+F http://www.microchip.com/mymicrochip/filehandler.aspx?ddocname=en561044
+$ENDCMP
+#
+$CMP TPS78433QWDRBRQ1
+D LDO Voltage Regulators Automotive, 300-mA, low-IQ, high-PSRR, LDO voltage regulator with high accuracy and enable
+K
+F https://www.ti.com/lit/ds/symlink/tps784-q1.pdf?ts=1619420301262&ref_url=https%253A%252F%252Fwww.ti.com%252Fstore%252Fti%252Fen%252Fp%252Fproduct%252F%253Fp%253DTPS78401QWDRBRQ1%2526keyMatch%253DTPS78401QWDRBRQ1%2526tisearch%253Dsearch-everything%2526usec
+$ENDCMP
+#
+$CMP TPS78450QWDRBRQ1
+D LDO Voltage Regulators Automotive, 300-mA, low-IQ, high-PSRR, LDO voltage regulator with high accuracy and enable
+K
+F https://www.ti.com/lit/ds/symlink/tps784-q1.pdf?ts=1619420301262&ref_url=https%253A%252F%252Fwww.ti.com%252Fstore%252Fti%252Fen%252Fp%252Fproduct%252F%253Fp%253DTPS78401QWDRBRQ1%2526keyMatch%253DTPS78401QWDRBRQ1%2526tisearch%253Dsearch-everything%2526usec
+$ENDCMP
+#
+$CMP GRM155R61A106ME11D
+D Chip Capacitor value 106
+K
+F https://search.murata.co.jp/Ceramy/image/img/A01X/G101/ENG/GRM155R61A106ME11-01A.pdf
+$ENDCMP
+#
+$CMP APHHS1005LQBC_D-V
+D LED BLUE CLEAR SMD
+K
+F http://www.kingbrightusa.com/images/catalog/SPEC/APHHS1005LQBC-D-V.pdf
+$ENDCMP
+#
+$CMP ERJ-U02F1001X
+D Thick Film Resistors - SMD 0402 1% 1.0Kohm Anti-Sulfur AEC-Q200
+K
+F https://industrial.panasonic.com/cdbs/www-data/pdf/RDP0000/AOA0000C334.pdf
+$ENDCMP
+#
+$CMP ERJ-U02F3000X
+D Anti-Sulfurated Thick Film Chip Resistor, 0402, 0.1W
+K
+F https://industrial.panasonic.com/cdbs/www-data/pdf/RDP0000/AOA0000C334.pdf
+$ENDCMP
+#
+$CMP MCP2562T-E_MF
+D MICROCHIP - MCP2562T-E/MF - CAN Bus, CAN, 4.5 V, 5.5 V, DFN
+K
+F http://www.microchip.com/mymicrochip/filehandler.aspx?ddocname=en561044
+$ENDCMP
+#
+$CMP WSL12066L000FEA
+D RESISTOR, 1206 0.006 Ohm +/-1% 0.25 W
+K
+F 
+$ENDCMP
+#
+$CMP ERJ-U02F1200X
+D Anti-Sulfurated Thick Film Chip Resistor, 0402, 0.1W
+K
+F https://industrial.panasonic.com/cdbs/www-data/pdf/RDP0000/AOA0000C334.pdf
+$ENDCMP
+#
+$CMP STM32F303K8T6
+D ARM Microcontrollers - MCU 16/32-BITS MICROS
+K
+F 
+$ENDCMP
+#
+$CMP STM32F407VGT6TR
+D STMICROELECTRONICS - STM32F407VGT6TR - ARM MCU?????, ???MAC, ?????, STM32 Family STM32F4 Series Microcontrollers, ARM ??-M4, 32?, 168 MHz
+K
+F https://www.st.com/resource/en/datasheet/stm32f407vg.pdf
+$ENDCMP
+#
+$CMP STM32F407VGT7TR
+D ARM Microcontrollers - MCU High-performance foundation line, ARM Cortex-M4 core with DSP and FPU, 1 Mbyte Flash, 168 MHz CPU, ART Accelerator, Ethernet, FSMC
+K
+F https://www.st.com/resource/en/datasheet/stm32f407vg.pdf
+$ENDCMP
+#
+$CMP TMP126EDBVRQ1
+D Board Mount Temperature Sensors Automotive +/-0.3 C SPI temperature sensor with 175 C operation, CRC and slew-rate alert 6-SOT-23 -55 to 175
+K
+F https://www.ti.com/lit/ds/symlink/tmp126-q1.pdf?ts=1698046237857&ref_url=https%253A%252F%252Fwww.ti.com%252Fproduct%252Fde-de%252FTMP126-Q1
+$ENDCMP
+#
+$CMP OPT3005DTSR
+D Ambient Light Sensors Ambient light sensor (ALS) for video surveillance cameras 8-SOT-5X3 -40 to 85
+K
+F https://www.ti.com/lit/ds/symlink/opt3005.pdf?ts=1686089569582
+$ENDCMP
+#
+$CMP TS07-667-50-BK-260-SMT-TR
+D Tactile Switches 6 x 6.7 mm, 5 mm Act Height, 260 gf, Black, Surface Mount, TR, SPST,
+K
+F https://www.cuidevices.com/product/resource/ts07.pdf
+$ENDCMP
+#
+$CMP ERJ-U02F5100X
+D Anti-Sulfurated Thick Film Chip Resistor, 0402, 0.1W
+K
+F https://industrial.panasonic.com/cdbs/www-data/pdf/RDP0000/AOA0000C334.pdf
+$ENDCMP
+#
+$CMP LFXTAL033863Reel
+D Crystals 8MHz 20pF -10C 60C
+K
+F https://www.mouser.co.uk/datasheet/2/741/LFXTAL033863Reel-997693.pdf
+$ENDCMP
+#
+$CMP STMPS2141STR
+D Enhanced Power Switch 500mA Low SOT23-5 STMicroelectronics STMPS2141STR Digital Power Switch IC, High Side MOSFET Switch, 0.5A, 2.7  5.5V, 5-Pin
+K
+F 
+$ENDCMP
+#
+$CMP C0402C200F4HACAUTO
+D SMD Auto X8R HT150C, Ceramic, 20 pF, 1%, 16 VDC, 40 VDC, 150C, -55C, X8R, SMD, MLCC, High Temperature, Ultra-Stable, Automotive Grade, 2.5 % , 100 GOhms, 1.21 mg, 0402, 1mm, 0.5mm, 0.5mm, 0.3mm, 0.3mm, 10000, 78  Weeks
+K
+F https://content.kemet.com/datasheets/KEM_C1007_X8R_ULTRA_150C_SMD.pdf
+$ENDCMP
+#
+$CMP ERJ-U02J473X
+D Anti-Sulfurated Thick Film Chip Resistor, 0402, 0.1W
+K
+F https://industrial.panasonic.com/cdbs/www-data/pdf/RDP0000/AOA0000C334.pdf
+$ENDCMP
+#
+$CMP ERJ-U02F4702X
+D Anti-Sulfurated Thick Film Chip Resistor, 0402, 0.1W
+K
+F https://industrial.panasonic.com/cdbs/www-data/pdf/RDP0000/AOA0000C334.pdf
+$ENDCMP
+#
+$CMP GRM155D81A475ME15J
+D Multilayer Ceramic Capacitors MLCC - SMD/SMT 10VDC 4.7F 20% X6T
+K
+F https://search.murata.co.jp/Ceramy/image/img/A01X/G101/ENG/GRM155D81A475ME15-01A.pdf
+$ENDCMP
+#
+$CMP TUSB1210BRHBR
+D High-Speed 480 Mbps USB 2.0 OTG Transceiver
+K
+F http://www.ti.com/lit/gpn/tusb1210
+$ENDCMP
+#
+$CMP TUSB4041IPAP
+D 4-port high-speed 480-Mbps USB 2.0 hub
+K
+F http://www.ti.com/lit/ds/symlink/tusb4041i.pdf
+$ENDCMP
+#
+$CMP ERJ-U02F9092X
+D Anti-Sulfurated Thick Film Chip Resistor, 0402, 0.1W
+K
+F https://industrial.panasonic.com/cdbs/www-data/pdf/RDP0000/AOA0000C334.pdf
+$ENDCMP
+#
+$CMP ERJ-U02F1004X
+D Anti-Sulfurated Thick Film Chip Resistor, 0402, 0.1W
+K
+F https://industrial.panasonic.com/cdbs/www-data/pdf/RDP0000/AOA0000C334.pdf
+$ENDCMP
+#
+$CMP GRM155R72A102KA01D
+D Murata 0402 GRM 1nF Ceramic Multilayer Capacitor, 100 V dc, +125C, X7R Dielectric, +/-10%
+K
+F https://search.murata.co.jp/Ceramy/image/img/A01X/G101/ENG/GRM155R72A102KA01-01A.pdf
+$ENDCMP
+#
+$CMP BLM18EG221TZ1D
+D BLM18_Z1D Series EMI Suppression Filter 220+/-25% at 100MHz 1A @85
+K
+F http://www.murata.com/~/media/webrenewal/support/library/catalog/products/emc/emifil/c31e.ashx?la=en-gb
+$ENDCMP
+#
+$CMP TPS2561DRCT
+D Power Switch ICs - Power Distribution Dual Ch Prec Adj Current-Ltd Pwr Sw
+K
+F https://www.ti.com/lit/gpn/TPS2561
+$ENDCMP
+#
+$CMP ERJ-2RKF6192X
+D Panasonic Thick Film Resistor 61.9k 0.1W +/-100ppm/C
+K
+F https://industrial.panasonic.com/cdbs/www-data/pdf/RDA0000/AOA0000C86.pdf
+$ENDCMP
+#
+$CMP GRM188C61C226ME01J
+D 22 F +/-20% 16V Ceramic Capacitor X5S 0603 (1608 Metric)
+K
+F https://search.murata.co.jp/Ceramy/image/img/A01X/G101/ENG/GRM188C61C226ME01-01A.pdf
+$ENDCMP
+#
+$CMP ERJ-U02F9531X
+D Anti-Sulfurated Thick Film Chip Resistor, 0402, 0.1W
+K
+F https://industrial.panasonic.com/cdbs/www-data/pdf/RDP0000/AOA0000C334.pdf
+$ENDCMP
+#
+$CMP ECS-240-20-30B-AEN-TR
+D Crystals 24MHz 25ppm 20pF -40C +85C
+K
+F https://ecsxtal.com/store/pdf/ecx_53b.pdf
+$ENDCMP
+#
+$CMP TPS563201DDCR
+D 4.5 V to 17 V input, 3 A output, synchronous step-down converter in Eco-mode
+K
+F http://www.ti.com/lit/gpn/tps563201
+$ENDCMP
+#
+$CMP SRP7028AA-2R2M
+D Shielded Power Inductor
+K
+F https://www.bourns.com/docs/Product-Datasheets/SRP7028AA.pdf
+$ENDCMP
+#
+$CMP ERA-2APB103X
+D Res Thin Film 0402 10K Ohm 0.1% 0.063W(1/16W) +/-15ppm/C Pad SMD Automotive T/R
+K
+F http://industrial.panasonic.com/cdbs/www-data/pdf/RDM0000/AOA0000C307.pdf
+$ENDCMP
+#
+$CMP TLV73311PQDRVRQ1
+D Automotive capacitor-free 300-mA LDO regulator with foldback current limit for portable devices
+K
+F http://www.ti.com/lit/gpn/tlv733p-q1
+$ENDCMP
+#
+$CMP 875075555002
+D Wurth Elektronik 47uF 25 V dc Aluminium Polymer Capacitor, WCAP-PSLC Series 2000h 11.7 (Dia.) x 7.85mm
+K
+F https://componentsearchengine.com/Datasheets/1/875075555002.pdf
+$ENDCMP
+#
+$CMP TPS566238RQFR
+D Switching Voltage Regulators 3-V to 18-V input, 6-A synchronous step-down regulator with forced continuous conduction mode 9-VQFN-HR -40 to 125
+K
+F https://www.ti.com/lit/ds/symlink/tps566238.pdf?ts=1674445033157&ref_url=https%253A%252F%252Fwww.ti.com%252Fproduct%252FTPS566238%252Fpart-details%252FTPS566238RQFR
+$ENDCMP
+#
+$CMP ERA-2AEB303X
+D Panasonic ERA Series Thin Film Surface Mount Resistor 0402 Case 30k +/-0.1% 63mW +/-25ppm/C
+K
+F https://componentsearchengine.com/Datasheets/1/ERA-2AEB303X.pdf
+$ENDCMP
+#
+$CMP GRM155R71C103KA01D
+D Ceramic  SMT capacitor 10nF 16Vdc Murata 0402 GRM 10nF Ceramic Multilayer Capacitor, 16 V dc, +125degC, X7R Dielectric,  /-10%
+K
+F http://www.murata.com/~/media/webrenewal/support/library/catalog/products/capacitor/mlcc/c02e.pdf
+$ENDCMP
+#
+$CMP RN73R1ETTP2203B25
+D RES 220K OHM 0.1% 1/16W 0402
+K
+F https://media.digikey.com/pdf/Data%20Sheets/KOA%20Speer/RN73R_Type_DS.pdf
+$ENDCMP
+#
+$CMP CGA1A2C0G1E330J030BA
+D TDK 33pF Multilayer Ceramic Capacitor MLCC 25 V dc +/-5% C0G Dielectric 0603 Solder Max. Op. Temp. +125C
+K
+F https://product.tdk.com/system/files/dam/doc/product/capacitor/ceramic/mlcc/catalog/mlcc_automotive_general_en.pdf
+$ENDCMP
+#
+$CMP C3216X5R1E476M160AC
+D 1206 X5R ceramic capacitor 47uF 25V TDK 1206 C 47??F Ceramic Multilayer Capacitor, 25 V dc X5R Dielectric ??20% SMD
+K
+F https://product.tdk.com/info/en/catalog/datasheets/mlcc_commercial_midvoltage_en.pdf
+$ENDCMP
+#
+$CMP EMK107B7105KA-T
+D Ceramic Capacitor 0603 16V 1uF
+K
+F https://componentsearchengine.com/Datasheets/1/EMK107B7105KA-T.pdf
+$ENDCMP
+#
+$CMP GCM188R71H104KA57J
+D MURATA - GCM188R71H104KA57J - CAP, MLCC, X7R, 0.1UF, 50V, 0603
+K
+F https://datasheet.datasheetarchive.com/originals/distributors/Datasheets_SAMA/74055922833a33f398e7eb8fdf8f760a.pdf
+$ENDCMP
+#
+$CMP GRM155R71C104KA88D
+D Ceramic  SMT capacitor 100nF 16Vdc Murata 0402 GRM 100nF Ceramic Multilayer Capacitor, 16 V dc X7R Dielectric ??10%
+K
+F https://componentsearchengine.com/Datasheets/1/GRM155R71C104KA88D.pdf
+$ENDCMP
+#
+$CMP LMK212BJ226MG-T
+D CAPACITOR, 0805 22uF +/-20% 10V
+K
+F http://componentsearchengine.com/Datasheets/1/LMK212BJ226MG-T.pdf
+$ENDCMP
+#
+$CMP RC0603FR-07220KL
+D Thick Film Resistors - SMD 220 kOhms 100mW 0603 1%
+K
+F https://componentsearchengine.com/Datasheets/2/RC0603FR-07220KL.pdf
+$ENDCMP
+#
+$CMP RC0603FR-0730KL
+D Yageo 30k, 0603 (1608M) Thick Film SMD Resistor +/-1% 0.1W - RC0603FR-0730KL
+K
+F https://www.yageo.com/upload/media/product/app/datasheet/rchip/pyu-rc_group_51_rohs_l.pdf
+$ENDCMP
+#
+$CMP 08053C104KAT2A
+D 0805 X7R ceramic capacitor, 25V 0.1uF AVX 0805 Standard 100nF Ceramic Multilayer Capacitor, 25 V dc X7R Dielectric  /-10% SMD
+K
+F http://datasheets.avx.com/X7RDielectric.pdf
+$ENDCMP
+#
+$CMP C1608X5R1A226M080AC
+D MULTILAYER CERAMIC CHIP CAPACITORS, 1608, Commercial grade, general (Up to 75V)
+K
+F https://product.tdk.com/info/en/catalog/datasheets/mlcc_commercial_midvoltage_en.pdf
+$ENDCMP
+#
+$CMP C2012X5R1V106K085AC
+D Capacitor MLCC 0805 35V 10uF X5R TDK 10uF Multilayer Ceramic Capacitor (MLCC) 35 V dc +/-10% X5R dielectric C SMT max op. temp. +85C
+K
+F https://product.tdk.com/system/files/dam/doc/product/capacitor/ceramic/mlcc/catalog/mlcc_commercial_general_en.pdf
+$ENDCMP
+#
+$CMP 20SVPF120M
+D Panasonic 120uF 20 V Polymer Aluminium Electrolytic Capacitor C6, OS-CON Series 5000h 6.3 x 5.9mm
+K
+F http://industrial.panasonic.com/cdbs/www-data/pdf/AAB8000/AAB8000C177.pdf
+$ENDCMP
+#
+$CMP CC0805JRNPO9BN100
+D SURFACE-MOUNT CERAMIC MULTILAYER CAPACITORS
+K
+F https://www.mouser.co.uk/datasheet/2/447/UPY_GP_NP0_16V_to_50V_18-1730511.pdf
+$ENDCMP
+#
+$CMP GRM155R71C223KA01D
+D MURATA - GRM155R71C223KA01D - CAP, MLCC, X7R, 22NF, 16V, 0402
+K
+F https://search.murata.co.jp/Ceramy/image/img/A01X/G101/ENG/GRM155R71C223KA01-01A.pdf
+$ENDCMP
+#
+$CMP 35SVPF82M
+D Panasonic 82uF 35 V dc Polymer Aluminium Electrolytic Capacitor E12, OS-CON Series 5000h 8 x 11.9mm
+K
+F http://industrial.panasonic.com/cdbs/www-data/pdf/AAB8000/AAB8000C177.pdf
+$ENDCMP
+#
+$CMP CRCW0402100RFKED
+D CRCW0402 Resistor T/R 0.063W,1%,100R Vishay CRCW Series Thick Film Surface Mount Resistor 0402 Case 100 +/-1% 0.063W +/-100ppm/C
+K
+F http://www.vishay.com/docs/20035/dcrcwe3.pdf
+$ENDCMP
+#
+$CMP CRCW040218K2FKED
+D Vishay CRCW Series Thick Film Surface Mount Resistor 0402 Case 18.2k +/-1% 0.063W +/-100ppm/C
+K
+F http://www.vishay.com/docs/20035/dcrcwe3.pdf
+$ENDCMP
+#
+$CMP CRCW04021K00FKEDC
+D D10/CRCW0402-C 100 1K0 1% ET7
+K
+F 
+$ENDCMP
+#
+$CMP CRCW040226K1FKED
+D Vishay CRCW Series Thick Film Surface Mount Resistor 402 Case 26.1k +/-1% 0.063W +/-100ppm/C
+K
+F http://www.vishay.com/docs/20035/dcrcwe3.pdf
+$ENDCMP
+#
+$CMP CRCW04023K24FKED
+D Vishay CRCW Series Thick Film Resistor 0402 Case 3.24k 1% 0.063W +/-100ppm/K
+K
+F http://www.vishay.com/docs/20035/dcrcwe3.pdf
+$ENDCMP
+#
+$CMP CSD17304Q3
+D 30V, N ch NexFET MOSFET, single SON3x3, 8.8mOhm
+K
+F http://www.ti.com/lit/gpn/csd17304q3
+$ENDCMP
+#
+$CMP LM3488MM_NOPB
+D 2.97V to 40V Wide Vin Low-Side N-Channel Controller for Switching Regulators
+K
+F https://www.ti.com/lit/ds/symlink/lm3488.pdf?HQS=TI-null-null-mousermode-df-pf-null-wwe&ts=1601467154043&ref_url=https%253A%252F%252Fwww.mouser.in%252F
+$ENDCMP
+#
+$CMP PRL1632-R005-F-T1
+D 5 mOhms +/-1% 1W Chip Resistor Wide 1206 (3216 Metric), 0612 Current Sense Thin Film
+K
+F http://www.susumu.co.jp/common/pdf/n_catalog_partition07_en.pdf
+$ENDCMP
+#
+$CMP SRP1270-3R3M
+D Bourns SRP1270 Series Type 1270 Shielded Wire-wound SMD Inductor with a Iron Core, 3.3 uH +/-20% Wire-Wound 35A Idc
+K
+F https://www.bourns.com/docs/Product-Datasheets/SRP1270.pdf
+$ENDCMP
+#
+$CMP STPS20M100SG-TR
+D STMicroelectronics STPS20M100SG-TR, SMT Schottky Diode, 100V 20A, 3-Pin D2PAK
+K
+F https://www.st.com/content/ccc/resource/technical/document/datasheet/group2/8f/d3/41/ea/82/b2/4b/5a/CD00228904/files/CD00228904.pdf/jcr:content/translations/en.CD00228904.pdf
+$ENDCMP
+#
+$CMP LM3478MM_NOPB
+D 40V Wide Vin Low-Side N-Channel Controller for Switching Regulator
+K
+F http://www.ti.com/lit/ds/symlink/lm3478.pdf
+$ENDCMP
+#
+$CMP 61729-1020BLF
+D USB 2.0, Input Output Connectors, Receptacle, Type B, Standard, Right Angle, Through Hole, Single Decks, 4 Positions
+K
+F https://www.amphenol-cs.com/media/wysiwyg/files/drawing/61729.pdf
+$ENDCMP
+#
+$CMP UJ2-AV-4-SMT-TR-T
+D Type A, USB 2.0, 480 Mbps, 30 Vac, 1 A, Vertical, Surface Mount, 30 in Plating Thickness, Black Insulator, Pick & Place, USB Receptacle
+K
+F https://www.cuidevices.com/product/resource/uj2-av-4-smt-tr-t.pdf
+$ENDCMP
+#
+$CMP USB-A-S-S-B-TH
+D Samtec USB-A Series, Right Angle Through Hole, Version 2.0 Type A USB Connector, Receptacle
+K
+F https://suddendocs.samtec.com/prints/usb-a-s-x-x-th-x-mkt.pdf
+$ENDCMP
+#
+$CMP ZUMT618TA
+D Diodes Inc ZUMT618TA NPN Bipolar Transistor, 1.25 A, 20 V, 3-Pin SOT-323
+K
+F https://www.diodes.com/assets/Datasheets/ZUMT618.pdf
+$ENDCMP
+#
+$CMP BC847BLP-7B
+D Bipolar (BJT) Transistor NPN 45 V 100 mA 100MHz 250 mW Surface Mount X1-DFN1006-3
+K
+F https://www.diodes.com/assets/Datasheets/BC847BLP.pdf
+$ENDCMP
+#
+$CMP 800SP9B5M6RE
+D PUSHBUTTON, 0.4VA, 20VAC/VDC SPST, Off-(On) Panel Mount, Right Angle, Rear
+K
+F https://configured-product-images.s3.amazonaws.com/2D/specs/800SP9B5M6RE.pdf
+$ENDCMP
+#
+$CMP B13AB
+D Toggle Switches ON-OFF-ON SPDT
+K
+F https://www.nkkswitches.com/pdf/Btoggles.pdf
+$ENDCMP
+#
+$CMP INA219BIDCNT
+D INA219BIDCNT, Intelligent Power Switch High Side Current Shunt, Power Monitor, 0.01A, 5.5V, 8-Pin, SOT-23
+K
+F http://www.ti.com/lit/ds/symlink/ina219.pdf
+$ENDCMP
+#
+$CMP RCWE1210R100FKEA
+D Res Thick Film 1210 0.1 Ohm 1% 1W +/-100ppm/C Sulfur Resistant Pad SMD Automotive T/R
+K
+F https://www.arrow.com/en/products/rcwe1210r100fkea/vishay?region=nac
+$ENDCMP
+#
+$CMP ERJ-U02F10R0X
+D PANASONIC ELECTRONIC COMPONENTS - ERJ-U02F10R0X - RES, THICK FILM, 10R, 1%, 0.1W, 0402, REEL
+K
+F https://industrial.panasonic.com/cdbs/www-data/pdf/RDP0000/AOA0000C334.pdf
+$ENDCMP
+#
+$CMP MF-LSMF200_24X-2
+D 2920 Resettable SMD PPTC 2.0A/24V
+K
+F https://www.bourns.com/docs/product-datasheets/mf-lsmf.pdf
+$ENDCMP
+#
+$CMP MF-MSMF050_30X-2
+D Resettable Fuses - PPTC 0.5A 30V MULTIFUSE AEC-Q200 Rev-C
+K
+F https://componentsearchengine.com/Datasheets/1/MF-MSMF050_30X-2.pdf
+$ENDCMP
+#
+$CMP ERJ-U02F4321X
+D Anti-Sulfurated Thick Film Chip Resistor, 0402, 0.1W
+K
+F https://industrial.panasonic.com/cdbs/www-data/pdf/RDP0000/AOA0000C334.pdf
+$ENDCMP
+#
+$CMP SI1029X-T1-GE3
+D Vishay SI1029X-T1-GE3 Dual N/P-channel MOSFET, 190 mA, 300 mA, 60 V, 6-Pin SOT-523
+K
+F https://www.vishay.com/docs/71435/71435.pdf
+$ENDCMP
+#
+$CMP UJ2-A-HR-G-TH
+D Type A, USB 2.0, 480 Mbps, 5 Vdc, 1.5 A, Right Angle, Through Hole, Board Lock, 0.6 in Plating Thickness, Black Insulator, Pick & Place, USB Receptacle
+K
+F https://www.cuidevices.com/product/resource/pdf/uj2-a-hr-g-th.pdf
+$ENDCMP
+#
+$CMP 51338-2474
+D Board to Board & Mezzanine Connectors 24CKT DR VERT RECEPT SURFACE MNT
+K
+F https://www.molex.com/webdocs/datasheets/pdf/en-us/0513382474_PCB_RECEPTACLES.pdf
+$ENDCMP
+#
+$CMP 51338-1674
+D Board to Board & Mezzanine Connectors 0.4 B/B REC ASSY J-BEND TAIL EMBSTP
+K
+F https://www.molex.com/molex/products/datasheet.jsp?part=active/0513381674_PCB_RECEPTACLES.xml
+$ENDCMP
+#
+$CMP 208659-2440
+D Connector Header Through Hole, Right Angle 24 position 0.079" (2.00mm)
+K
+F https://www.molex.com/pdm_docs/sd/2086592440_sd.pdf
+$ENDCMP
+#
+$CMP 505433-2471
+D Headers & Wire Housings MicroLockPlus 1.25MM VRT HDR DR 24CKT BLK
+K
+F 
+$ENDCMP
+#
+$CMP 505448-1271
+D 1.25mm Pitch, Micro-Lock Plus PCB Header, Dual Row, Right-Angle, Surface Mount, Tin-Bismuth Plating, Positive Lock,  Circuits, Tape and Reel, Black
+K
+F 
+$ENDCMP
+#
+$CMP 505448-2491
+D Headers & Wire Housings 1.25WB DL RA 24CKT BK G010
+K
+F https://www.molex.com/pdm_docs/sd/5054482491_sd.pdf
+$ENDCMP
+#
+$CMP MF-MSMF110_16-2
+D Fuse, PTC, Resettable, SMD,1812,1.1A,16V Bourns 1.1A Surface Mount Resettable Fuse, 16 V
+K
+F https://componentsearchengine.com/Datasheets/2/MF-MSMF110_16-2.pdf
+$ENDCMP
+#End Doc Library

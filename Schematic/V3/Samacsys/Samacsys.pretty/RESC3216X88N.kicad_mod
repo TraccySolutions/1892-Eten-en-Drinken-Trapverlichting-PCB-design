@@ -1,0 +1,133 @@
+(footprint "RESC3216X88N"
+	(version 20240108)
+	(generator "pcbnew")
+	(generator_version "8.0")
+	(layer "F.Cu")
+	(descr "RESC3216X88N")
+	(tags "Resistor")
+	(property "Reference" "R**"
+		(at -3.4544 -1.905 0)
+		(layer "F.SilkS")
+		(uuid "ac7faca6-1505-4c61-bad2-292fb2f46e87")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+			)
+		)
+	)
+	(property "Value" "RESC3216X88N"
+		(at -3.4544 -1.905 0)
+		(layer "F.SilkS")
+		(hide yes)
+		(uuid "951e66cc-2975-47ac-b472-5232369ef7cc")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+			)
+		)
+	)
+	(property "Footprint" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "a34cb5cf-ad00-4ccd-8ed6-57f9fbf5f945")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "ca5fd9e3-4093-4c95-8b71-e8ac21ea934e")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "517f5ec3-13ad-40f5-915a-229561ac73f8")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr smd)
+	(fp_line
+		(start -0.5842 0.8636)
+		(end 0.5842 0.8636)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "7aeb0700-01b0-42d7-9b99-aa35e01a20cd")
+	)
+	(fp_line
+		(start 0.5842 -0.8636)
+		(end -0.5842 -0.8636)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "a80e27a9-3b33-4562-8451-95cfc1034b94")
+	)
+	(fp_rect
+		(start -2.15 -1)
+		(end 2.15 1)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(fill none)
+		(layer "F.CrtYd")
+		(uuid "08523938-9059-444b-a2ff-a8c4276e525a")
+	)
+	(fp_text user "${REFERENCE}"
+		(at -3.4544 -1.905 0)
+		(layer "F.Fab")
+		(uuid "e9a42e88-d4eb-4b3a-bc04-84fb142a7c60")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+			)
+		)
+	)
+	(pad "1" smd rect
+		(at -1.4732 0)
+		(size 1.1176 1.7526)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(uuid "2a1ea242-8527-4aca-803d-a1a896bdc56a")
+	)
+	(pad "2" smd rect
+		(at 1.4732 0)
+		(size 1.1176 1.7526)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(uuid "9a2302f9-79f7-40c5-95b8-c535fe2b15d5")
+	)
+	(model "${KICAD_3RD_PARTY}/Samacsys.3dshapes/WSL12066L000FEA.stp"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 0)
+		)
+	)
+)

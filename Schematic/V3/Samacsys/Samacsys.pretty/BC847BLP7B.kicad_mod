@@ -1,0 +1,201 @@
+(footprint "BC847BLP7B"
+	(version 20240108)
+	(generator "pcbnew")
+	(generator_version "8.0")
+	(layer "F.Cu")
+	(descr "BC847BLP-7B-1")
+	(tags "Transistor BJT NPN")
+	(property "Reference" "Q**"
+		(at 0 -1.45 0)
+		(layer "F.SilkS")
+		(uuid "7b4d20c1-3168-422d-b11b-bb4835557811")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+			)
+		)
+	)
+	(property "Value" "BC847BLP7B"
+		(at 0 2 0)
+		(layer "F.SilkS")
+		(hide yes)
+		(uuid "e1453114-313b-43fc-94c6-a243b6aca3de")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+			)
+		)
+	)
+	(property "Footprint" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "b7cebdb9-4ebb-48b7-a5fd-6f4f33fa8b5f")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "e2386174-f474-4eaf-acc7-9ec7b3efbcd2")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "82944a48-1062-4f9d-bd7a-e15528031748")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr smd)
+	(fp_line
+		(start -1.1 -0.225)
+		(end -1.1 -0.225)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "39f90f0a-ead6-4576-bd2b-57042caf1d3d")
+	)
+	(fp_line
+		(start -1 -0.225)
+		(end -1 -0.225)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "7822da8c-c87b-450b-be91-4fc1f9fbc1ae")
+	)
+	(fp_arc
+		(start -1.1 -0.225)
+		(mid -1.05 -0.275)
+		(end -1 -0.225)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "87d527ff-dd49-46c7-89f8-03f1f82d2bbb")
+	)
+	(fp_arc
+		(start -1 -0.225)
+		(mid -1.05 -0.175)
+		(end -1.1 -0.225)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "5aa83208-e43f-4d3b-bc7a-b2b29823d042")
+	)
+	(fp_rect
+		(start -0.7 -0.5)
+		(end 0.7 0.5)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(fill none)
+		(layer "F.CrtYd")
+		(uuid "31d095a3-9a31-4ec9-9c09-004015014111")
+	)
+	(fp_line
+		(start -0.5 -0.3)
+		(end -0.5 0.3)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "d39a6ee5-d334-4af5-92ad-de10cb578f8a")
+	)
+	(fp_line
+		(start -0.5 0.3)
+		(end 0.5 0.3)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "c5515c24-7561-4bb6-bc0d-4519cc7408ca")
+	)
+	(fp_line
+		(start 0.5 -0.3)
+		(end -0.5 -0.3)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "b2d5388f-6a4c-483c-a165-d8fbfa3179c7")
+	)
+	(fp_line
+		(start 0.5 0.3)
+		(end 0.5 -0.3)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "df028451-251e-4744-946f-d952b37accfa")
+	)
+	(fp_text user "${REFERENCE}"
+		(at 0 0 0)
+		(layer "F.Fab")
+		(uuid "5ddac94c-090c-4d45-8a39-cd0748ffd44b")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+			)
+		)
+	)
+	(pad "1" smd rect
+		(at -0.35 -0.225 90)
+		(size 0.25 0.4)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(uuid "09cd2395-02de-46e6-8e9d-e644a6bb1060")
+	)
+	(pad "2" smd rect
+		(at -0.35 0.225 90)
+		(size 0.25 0.4)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(uuid "146b6505-8626-4365-b4ea-58143d440e26")
+	)
+	(pad "3" smd rect
+		(at 0.35 0)
+		(size 0.4 0.7)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(uuid "d8f16fc6-c8f0-40fb-a0b7-475b69ac684f")
+	)
+	(model "${KICAD_3RD_PARTY}/Samacsys.3dshapes/BC847BLP-7B.stp"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 0)
+		)
+	)
+)

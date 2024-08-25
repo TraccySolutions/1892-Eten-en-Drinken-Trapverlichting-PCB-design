@@ -4,4 +4,5 @@
   (lib (name "KiCad")(type "KiCad")(uri "${KIPRJMOD}/LIB_1812L200_16DR/1812L200_16DR/KiCad")(options "")(descr ""))
   (lib (name "Logo")(type "KiCad")(uri "${KIPRJMOD}/Logo")(options "")(descr ""))
   (lib (name "Connectors")(type "KiCad")(uri "${KIPRJMOD}/Connectors.pretty")(options "")(descr ""))
+  (lib (name "Samacsys")(type "KiCad")(uri "${KIPRJMOD}/Samacsys/Samacsys.pretty")(options "")(descr ""))
 )
